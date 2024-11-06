@@ -1,0 +1,52 @@
+div.center{
+
+    text-align: center;
+
+}
+main{
+
+    margin-top: 10%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+
+}
+img{
+   
+    width: 25%;
+    height: 25%;
+    border-radius: 12%;
+
+}
+div.imagenDescripcion{
+    
+    margin: 5%;
+    
+
+}
+div.lista{
+
+    text-align: center;
+    align-items: center;
+
+}
+div#form{
+
+    text-align: center;
+    align-content: center;
+
+}
+li{
+  
+    align-items: center;
+}
+div.tabla{
+    align-items: center;
+    text-align: center;
+    margin: 5%;
+    padding-left: 38%;
+}
+body{
+
+    background-color: #B8DEAF;
+}
