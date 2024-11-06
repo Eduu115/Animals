@@ -50,3 +50,8 @@ body{
 
     background-color: #B8DEAF;
 }
+table{
+
+    background-color: red;
+    border-radius: 7%;
+}
