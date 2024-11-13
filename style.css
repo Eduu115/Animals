@@ -1,3 +1,6 @@
+*{
+    color: salmon;
+}
 div.center{
 
     text-align: center;
@@ -41,17 +44,46 @@ li{
     align-items: center;
 }
 div.tabla{
+    background-color: red;
     align-items: center;
     text-align: center;
-    margin: 5%;
-    padding-left: 38%;
+    
+    margin-left: 33%;
+    margin-right: 33%;
 }
 body{
 
-    background-color: #B8DEAF;
+    background-color: #503d38;
 }
 table{
 
     background-color: red;
     border-radius: 7%;
+    
 }
+#tabla{
+    border-collapse:collapse ;
+    border: solid rgb(63, 50, 50);
+
+    
+}
+td, th{
+    background-color: rgb(109, 91, 91);
+    border: ridge black;
+    height: 12%;
+    width: 20%;
+}
+img.animals{
+
+    border: dotted salmon transparent;
+    border-style: dashed;
+    border-collapse: collapse;
+
+    transition: border-color 1s ease-in-out;
+
+}
+img.animals:hover{
+
+    border-color: red;
+}
+
