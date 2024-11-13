@@ -54,6 +54,9 @@ div.tabla{
 body{
 
     background-color: #503d38;
+/*    background-image:url(Fotos/perrito.ico);
+    background-repeat: repeat-x ;
+    background-position: top;*/
 }
 table{
 
@@ -87,3 +90,6 @@ img.animals:hover{
     border-color: red;
 }
 
+.relleno{
+    background-color: #4b3630;
+}
